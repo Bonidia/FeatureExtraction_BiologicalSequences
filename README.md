@@ -1,6 +1,8 @@
 # Feature Extraction Approaches for Biological Sequences: A Comparative Study of Mathematical Models
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend tempor lacus et ultrices. Donec accumsan, augue semper elementum gravida, ante odio rhoncus magna, sit amet lacinia nisi tellus vitae ligula. Morbi congue sit amet dui quis aliquam. Vivamus vulputate id est id luctus. Quisque quis mi sit amet augue pellentesque auctor id ut arcu. Cras congue feugiat elementum. Integer et metus id leo iaculis pellentesque ut et nibh. Aliquam vitae justo dapibus velit tristique dapibus. Mauris lacinia faucibus feugiat. Proin sit amet ipsum odio. Curabitur ullamcorper ligula risus, nec fringilla augue laoreet vel. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eleifend tempor lacus et ultrices. Donec accumsan, augue semper elementum gravida, ante odio rhoncus magna, sit amet lacinia nisi tellus vitae ligula. Morbi congue sit amet dui quis aliquam. Vivamus vulputate id est id luctus. Quisque quis mi sit amet augue pellentesque auctor id ut arcu. Cras congue feugiat elementum. Integer et metus id leo iaculis pellentesque ut et nibh. Aliquam vitae justo dapibus velit tristique dapibus. Mauris lacinia faucibus feugiat. Proin sit amet ipsum odio. Curabitur ullamcorper ligula risus, nec fringilla augue laoreet vel. 
+The number of available biological sequences has increased significantly in recent years due to various genomic sequencing projects, creating a huge volume
+of data. Consequently, new computational methods are needed to analyze and extract information from these sequences. Machine learning methods have shown broad applicability in computational biology and bioinformatics. The utilization of machine learning methods has helped to extract relevant information from various biological datasets. However, there are still several obstacles that motivate new algorithms and pipeline proposals, mainly involving feature extraction problems, in which extracting significant discriminatory information from a biological set is challenging. Considering this, our work proposes to study and analyze a feature extraction pipeline based on mathematical models (Numerical Mapping, Fourier, Entropy, and Complex Networks). As a case study, we analyze Long Non-Coding RNA sequences. Moreover, we divided this work into two studies, e.g., (I) we assessed our proposal with the most addressed problem in our review, e.g., lncRNA vs.
+mRNA; (II) we tested its generalization on different classification problems, e.g., circRNA vs. lncRNA. The experimental results demonstrated three main contributions: (1) An in-depth study of several mathematical models; (2) a new feature extraction pipeline and (3) its generalization and robustness for distinct biological sequence classification.
 
 
 ## Authors
@@ -80,7 +82,7 @@ Where:
 
 -i = Input - Fasta format file, e.g., test.fasta
 
--o = output - Fasta format file, e.g., test.csv
+-o = output - Fasta format file, e.g., output.fasta
 ```
 
 **Running:**
