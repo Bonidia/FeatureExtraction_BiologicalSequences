@@ -55,6 +55,8 @@ It is important to note that we consider that the Python language is installed. 
 ```sh
 $ git clone https://github.com/Bonidia/FeatureExtraction_BiologicalSequences FeatureExtraction
 
+$ cd FeatureExtraction
+
 $ pip3 install -r requirements.txt
 
 $ apt-get -y install python3-igraph
