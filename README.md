@@ -23,7 +23,7 @@ mRNA; (II) we tested its generalization on different classification problems, e.
 * [Installing dependencies and package](#installing-dependencies-and-package)
 * [Usage and Examples](#usage-and-uxamples)
     * [Preprocessing](#preprocessings)
-    * [Numerical Mapping with Fourier Transform](#numerical-mapping-and-fourier-transform)
+    * [Numerical Mapping with Fourier Transform](#numerical-mapping-with-fourier-transform)
     * [Shannon and Tsallis Entropy](#shannon-and-tsallis-entropy)
     * [Complex Networks](#complex-networks)
 * [Citation](#citation)
