@@ -23,7 +23,7 @@ mRNA; (II) we tested its generalization on different classification problems, e.
 * [Installing dependencies and package](#installing-dependencies-and-package)
 * [Usage and Examples](#usage-and-uxamples)
     * [Preprocessing](#preprocessings)
-    * [Mapping Numerical with Fourier Transform](#mapping-numerical-and-fourier-transform)
+    * [Numerical Mapping with Fourier Transform](#numerical-mapping-and-fourier-transform)
     * [Shannon and Tsallis Entropy](#shannon-and-tsallis-entropy)
     * [Complex Networks](#complex-networks)
 * [Citation](#citation)
@@ -94,7 +94,7 @@ $ python3.7 preprocessing.py -i dataset.fasta -o preprocessing.fasta
 ```
 
 
-### Mapping Numerical with Fourier Transform
+### Numerical Mapping with Fourier Transform
 
 To use this model, follow the example below:
 
