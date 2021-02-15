@@ -12,8 +12,22 @@ As consequence of the various genomic sequencing projects, an increasing volume 
 
 ## Publication
 
-**Preprint:** BONIDIA, Robson Parmezan et al. Feature Extraction Approaches for Biological Sequences: A Comparative Study of Mathematical Models. bioRxiv, 2020.
+**Article:** Robson P Bonidia, Lucas D H Sampaio, Douglas S Domingues, Alexandre R Paschoal, Fabrício M Lopes, André C P L F de Carvalho, Danilo S Sanches, Feature extraction approaches for biological sequences: a comparative study of mathematical features, Briefings in Bioinformatics, 2021;, bbab011, https://doi.org/10.1093/bib/bbab011.
 
+```sh
+@article{10.1093/bib/bbab011,
+    author = {Bonidia, Robson P and Sampaio, Lucas D H and Domingues, Douglas S and Paschoal, Alexandre R and Lopes, Fabrício M and de Carvalho, André C P L F and Sanches, Danilo S},
+    title = "{Feature extraction approaches for biological sequences: a comparative study of mathematical features}",
+    journal = {Briefings in Bioinformatics},
+    year = {2021},
+    month = {02},
+    issn = {1477-4054},
+    doi = {10.1093/bib/bbab011},
+    url = {https://doi.org/10.1093/bib/bbab011},
+    note = {bbab011},
+    eprint = {https://academic.oup.com/bib/advance-article-pdf/doi/10.1093/bib/bbab011/36254240/bbab011.pdf},
+}
+```
 
 ## Table of contents
 * [List of files](#list-of-files)
@@ -179,4 +193,19 @@ $ python3.7 methods/ComplexNetworksClass.py -i sequences.fasta -o sequences.csv 
 
 If you use this code in a scientific publication, we would appreciate citations to the following paper:
 
-**Preprint:** BONIDIA, Robson Parmezan et al. Feature Extraction Approaches for Biological Sequences: A Comparative Study of Mathematical Models. bioRxiv, 2020.
+**Article:** Robson P Bonidia, Lucas D H Sampaio, Douglas S Domingues, Alexandre R Paschoal, Fabrício M Lopes, André C P L F de Carvalho, Danilo S Sanches, Feature extraction approaches for biological sequences: a comparative study of mathematical features, Briefings in Bioinformatics, 2021;, bbab011, https://doi.org/10.1093/bib/bbab011.
+
+```sh
+@article{10.1093/bib/bbab011,
+    author = {Bonidia, Robson P and Sampaio, Lucas D H and Domingues, Douglas S and Paschoal, Alexandre R and Lopes, Fabrício M and de Carvalho, André C P L F and Sanches, Danilo S},
+    title = "{Feature extraction approaches for biological sequences: a comparative study of mathematical features}",
+    journal = {Briefings in Bioinformatics},
+    year = {2021},
+    month = {02},
+    issn = {1477-4054},
+    doi = {10.1093/bib/bbab011},
+    url = {https://doi.org/10.1093/bib/bbab011},
+    note = {bbab011},
+    eprint = {https://academic.oup.com/bib/advance-article-pdf/doi/10.1093/bib/bbab011/36254240/bbab011.pdf},
+}
+```
